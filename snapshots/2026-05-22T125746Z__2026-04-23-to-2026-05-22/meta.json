@@ -1,0 +1,23 @@
+{
+  "snapshot_id": "2026-05-22T125746Z__2026-04-23-to-2026-05-22",
+  "label": "2026-04-23 to 2026-05-22",
+  "date_min": "2026-04-23",
+  "date_max": "2026-05-22",
+  "row_count": 470071,
+  "uploaded_at": "2026-05-22T12:57:55+00:00",
+  "seller_types": [
+    "ABF",
+    "CLQ",
+    "CRM",
+    "CSU",
+    "FCR",
+    "LIV",
+    "LKS",
+    "LMR",
+    "PLN",
+    "RDT",
+    "SDL",
+    "SNI",
+    "VER"
+  ]
+}
